@@ -5,4 +5,5 @@
 🤔 I’m looking for help with DevOps
 💬 Ask me about React/Html & Css
 📫 You can reach me via my email:obaremimuyiwa@gmail.com
-😄 Pronouns: He/Him
+😄 Pronouns: He/Him 
+   
