@@ -1,4 +1,4 @@
-<Muyiwa Obaremi />
+ Hi there, my name is Muyiwa 👋
 🔭 I’m currently working on building simple tools and solving problems 
 🌱 I’m currently working my way to becoming a solid software engineer
 👯 I’m looking to collaborate on anything nice!
