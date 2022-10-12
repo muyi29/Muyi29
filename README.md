@@ -7,6 +7,7 @@
 .📫 You can reach me via my email:obaremimuyiwa@gmail.com
 .😄 Pronouns: He/Him 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api username=Muyi2905 &theme=radical)
 
    
 
