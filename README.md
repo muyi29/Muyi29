@@ -6,5 +6,7 @@
 .💬 Ask me about React/Html & Css
 .📫 You can reach me via my email:obaremimuyiwa@gmail.com
 .😄 Pronouns: He/Him 
+
+(https://github-readme-stats.vercel.app/api?username=Muyi2905 &show_icons=true)
    
 
