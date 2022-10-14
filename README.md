@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋there, my name is Muyiwa</h1>
 <h3 align="center">An intermediate FrontEnd Developer,</h3>
 
-<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="380" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muyi2905&label=Profile%20views&color=0e75b6&style=flat" alt="muyi2905" /> </p>
 
