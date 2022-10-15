@@ -19,7 +19,6 @@
 
 - ⚡ Fun fact **I think I am funny 😂**
 
-ct" alt="muyi2905" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muyi2905&show_icons=true&locale=en" alt="muyi2905" /></p>
 
