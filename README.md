@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋there, my name is Muyiwa</h1>
+ 
+<h1 align="center">Hi👋 there, my name is Muyiwa</h1>
 <h3 align="center">An intermediate FrontEnd Developer,</h3>
 
 <img align="right" alt="coding" width="380" src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1_LEH5tUEQReWe8Iu-UEV3Pg.gif">
@@ -13,7 +14,7 @@
 
 - 🤝 I’m looking for help with **DevOps, Data Analysis,**
 
-- 💬 Ask me about **react,html and css**
+- 💬 Ask me about **reactjs, html and css**
 
 - 📫 How to reach me **obaremimuyiwa@gmail.com**
 
