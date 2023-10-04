@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **obaremimuyiwa@gmail.com**
 
-- 📄 Check out my resume [https://drive.google.com/file/d/12WiMMI2jcPWvqhFTCDm6-ggZ-M_67I1_/view?usp=drivesdk](https://drive.google.com/file/d/12WiMMI2jcPWvqhFTCDm6-ggZ-M_67I1_/view?usp=drivesdk)
+- 📄 Check out my resume [https://drive.google.com/file/d/12WiMMI2jcPWvqhFTCDm6-ggZ-M_67I1_/view?usp=drivesdk](https://drive.google.com/file/d/12WiMMI2jcPWvqhFTCDm6-ggZ-M_67I1_/view?usp=drivesdk)]
 
 - ⚡ Fun fact **I think I am funny**
 
