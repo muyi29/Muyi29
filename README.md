@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muyi2905&label=Profile%20views&color=0e75b6&style=flat" alt="muyi2905" /> </p>
 
-- 🔭 I’m currently working on **Becoming a Fullstack and Cloud engineer**
+- 🔭 I’m currently working on **Becoming a Backend and a Cloud engineer**
 
 - 🌱 I’m currently learning **Backend Development**
 
