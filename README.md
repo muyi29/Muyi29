@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **obaremimuyiwa@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+
 
 
 
