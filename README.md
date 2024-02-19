@@ -8,7 +8,7 @@ I'm a passionate full-stack engineer with a keen focus on backend development. W
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [obaremimuyiwa@gmail.com](mailto:obaremimuyiwa@gmail.com)
-* 🧠  I'm learning Golang and TypeScript
+* 🧠  I'm currently learning Golang and TypeScript
 * 🤝  I'm open to collaborating on Anything nice
 
 ### Skills
