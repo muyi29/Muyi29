@@ -11,12 +11,7 @@ I'm a passionate full-stack engineer with a keen focus on backend development. W
 * 🧠  I'm learning Golang and TypeScript
 * 🤝  I'm open to collaborating on Anything nice
 
-### Technology Stacks
 
-Programming language: JavaScript, Python, Java, TypeScript
-Frameworks: ExpressJS, NestJS, ReactJS, AngularJS, Spring Boot
-DBMS: MySQL, PostgreSQL, MongoDB
-Infrastructure: Docker, Git, AWS
 
 ### Skills
 
