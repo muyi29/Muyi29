@@ -9,7 +9,7 @@
 - 📫 How to reach me **obaremimuyiwa@gmail.com**
 - ⚡ Fun fact **I think I am funny**
 
-<h3 align="left">Technical Skills:</h3>
+<h3 align="left">Technical Stack:</h3>
 <ul>
   <li><strong>Languages:</strong> JavaScript, TypeScript, Python, Golang</li>
   <li><strong>Backend:</strong> Node.js, Express.js, Gin, Django</li>
