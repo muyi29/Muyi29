@@ -7,7 +7,7 @@
 - 🤝 I'm looking for help with **Data Structures and Algorithm**
 - 💬 Ask me about **Python, Golang and Javascript**
 - 📫 How to reach me **obaremimuyiwa@gmail.com**
-- ⚡ Fun fact **I think I am funny**
+
 
 <h3 align="left">Technical Stack:</h3>
 <ul>
