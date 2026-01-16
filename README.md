@@ -7,6 +7,7 @@
 - 🤝 I'm looking for help with **Data Structures and Algorithm**
 - 💬 Ask me about **Python, Golang and Javascript**
 - 📫 How to reach me **obaremimuyiwa@gmail.com**
+- diving into **distributed systems, rust internals, observability, orchestration**
 
 
 <h3 align="left">Technical Stack:</h3>
@@ -32,7 +33,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muyi29&show_icons=true&locale=en&layout=compact" alt="muyi29" /></p>
+
 
 <br>
 
